@@ -11,10 +11,10 @@ body
 {
     font-family: '游ゴシック', YuGothic, 'メイリオ', Verdana, 'Hiragino Kaku Gothic ProN', Meiryo, sans-serif;
     font-size: 1.4rem;
-    line-height: 1.6;
+    line-height: 1.8;
     letter-spacing: .1em;
     color: #257FB2;
-    background-color: #FFDDDD;/* ピンクとブルーの２色で落ち着いた、かつ女性らしさを表現しています */
+    background-color: #FFDDDD;
 }
 
 a
@@ -78,7 +78,7 @@ section h2,
     float: right;
     width: 20px;
     height: 20px;
-    margin: 20px 20px 0 0;
+    margin: 40px 0 0 0;
     padding: 10px;
     text-align: center;
     color: #004BB2;
